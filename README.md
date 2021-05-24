@@ -1,4 +1,4 @@
 # Git 🦖  : - The Distributed version control system 
 
-## logo   <img src="github.png">
+ <img src="github.png" align="right" >
 
