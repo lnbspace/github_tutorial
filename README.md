@@ -5,7 +5,7 @@
  
  ## Cheetsheet link 
  
- [CLick]('https://github.com/lnbspace/github_tutorial/blob/main/git-cheat-sheet-education.pdf')
+ [CLick](https://github.com/lnbspace/github_tutorial/blob/main/git-cheat-sheet-education.pdf)
  
  
  
